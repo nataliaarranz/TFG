@@ -1,0 +1,617 @@
+cnae_code,year,num_companies,sector_name
+45.0,2011,139458.0,Venta y reparación de vehículos
+45.0,2012,136850.0,Venta y reparación de vehículos
+45.0,2013,138192.0,Venta y reparación de vehículos
+45.0,2014,139456.0,Venta y reparación de vehículos
+45.0,2015,142392.0,Venta y reparación de vehículos
+45.0,2016,144404.0,Venta y reparación de vehículos
+45.0,2017,147190.0,Venta y reparación de vehículos
+45.0,2018,150770.0,Venta y reparación de vehículos
+45.0,2019,150630.0,Venta y reparación de vehículos
+45.0,2020,148958.0,Venta y reparación de vehículos
+45.0,2021,148030.0,Venta y reparación de vehículos
+45.0,2022,149578.0,Venta y reparación de vehículos
+45.0,2023,138178.0,Venta y reparación de vehículos
+45.0,2024,138172.0,Venta y reparación de vehículos
+46.0,2011,438932.0,Comercio al por mayor
+46.0,2012,438490.0,Comercio al por mayor
+46.0,2013,437640.0,Comercio al por mayor
+46.0,2014,437876.0,Comercio al por mayor
+46.0,2015,445592.0,Comercio al por mayor
+46.0,2016,445770.0,Comercio al por mayor
+46.0,2017,443478.0,Comercio al por mayor
+46.0,2018,442036.0,Comercio al por mayor
+46.0,2019,445248.0,Comercio al por mayor
+46.0,2020,432516.0,Comercio al por mayor
+46.0,2021,423306.0,Comercio al por mayor
+46.0,2022,421666.0,Comercio al por mayor
+46.0,2023,367926.0,Comercio al por mayor
+46.0,2024,362748.0,Comercio al por mayor
+47.0,2011,985998.0,Comercio al por menor
+47.0,2012,971974.0,Comercio al por menor
+47.0,2013,954926.0,Comercio al por menor
+47.0,2014,939634.0,Comercio al por menor
+47.0,2015,939876.0,Comercio al por menor
+47.0,2016,924900.0,Comercio al por menor
+47.0,2017,916338.0,Comercio al por menor
+47.0,2018,902942.0,Comercio al por menor
+47.0,2019,886836.0,Comercio al por menor
+47.0,2020,871672.0,Comercio al por menor
+47.0,2021,855274.0,Comercio al por menor
+47.0,2022,857210.0,Comercio al por menor
+47.0,2023,786574.0,Comercio al por menor
+47.0,2024,769548.0,Comercio al por menor
+49.0,2011,378400.0,Transporte terrestre
+49.0,2012,369520.0,Transporte terrestre
+49.0,2013,357856.0,Transporte terrestre
+49.0,2014,339190.0,Transporte terrestre
+49.0,2015,333594.0,Transporte terrestre
+49.0,2016,332148.0,Transporte terrestre
+49.0,2017,331980.0,Transporte terrestre
+49.0,2018,332522.0,Transporte terrestre
+49.0,2019,320876.0,Transporte terrestre
+49.0,2020,331150.0,Transporte terrestre
+49.0,2021,329024.0,Transporte terrestre
+49.0,2022,331550.0,Transporte terrestre
+49.0,2023,312256.0,Transporte terrestre
+49.0,2024,321590.0,Transporte terrestre
+50.0,2011,992.0,Transporte marítimo
+50.0,2012,1016.0,Transporte marítimo
+50.0,2013,1014.0,Transporte marítimo
+50.0,2014,1024.0,Transporte marítimo
+50.0,2015,1012.0,Transporte marítimo
+50.0,2016,1092.0,Transporte marítimo
+50.0,2017,1182.0,Transporte marítimo
+50.0,2018,1546.0,Transporte marítimo
+50.0,2019,1310.0,Transporte marítimo
+50.0,2020,1540.0,Transporte marítimo
+50.0,2021,1666.0,Transporte marítimo
+50.0,2022,1842.0,Transporte marítimo
+50.0,2023,1794.0,Transporte marítimo
+50.0,2024,1892.0,Transporte marítimo
+51.0,2011,542.0,Transporte aéreo
+51.0,2012,494.0,Transporte aéreo
+51.0,2013,532.0,Transporte aéreo
+51.0,2014,484.0,Transporte aéreo
+51.0,2015,538.0,Transporte aéreo
+51.0,2016,544.0,Transporte aéreo
+51.0,2017,506.0,Transporte aéreo
+51.0,2018,502.0,Transporte aéreo
+51.0,2019,440.0,Transporte aéreo
+51.0,2020,490.0,Transporte aéreo
+51.0,2021,498.0,Transporte aéreo
+51.0,2022,484.0,Transporte aéreo
+51.0,2023,450.0,Transporte aéreo
+51.0,2024,470.0,Transporte aéreo
+52.0,2011,40892.0,Almacenamiento y logística
+52.0,2012,40446.0,Almacenamiento y logística
+52.0,2013,39296.0,Almacenamiento y logística
+52.0,2014,38856.0,Almacenamiento y logística
+52.0,2015,38608.0,Almacenamiento y logística
+52.0,2016,37410.0,Almacenamiento y logística
+52.0,2017,37482.0,Almacenamiento y logística
+52.0,2018,37336.0,Almacenamiento y logística
+52.0,2019,35978.0,Almacenamiento y logística
+52.0,2020,36526.0,Almacenamiento y logística
+52.0,2021,35574.0,Almacenamiento y logística
+52.0,2022,35040.0,Almacenamiento y logística
+52.0,2023,31936.0,Almacenamiento y logística
+52.0,2024,31524.0,Almacenamiento y logística
+53.0,2011,13302.0,Actividades postales
+53.0,2012,13210.0,Actividades postales
+53.0,2013,13548.0,Actividades postales
+53.0,2014,14102.0,Actividades postales
+53.0,2015,14650.0,Actividades postales
+53.0,2016,15520.0,Actividades postales
+53.0,2017,17776.0,Actividades postales
+53.0,2018,22982.0,Actividades postales
+53.0,2019,29884.0,Actividades postales
+53.0,2020,40136.0,Actividades postales
+53.0,2021,54242.0,Actividades postales
+53.0,2022,51118.0,Actividades postales
+53.0,2023,49746.0,Actividades postales
+53.0,2024,55672.0,Actividades postales
+55.0,2011,46576.0,Alojamiento
+55.0,2012,46786.0,Alojamiento
+55.0,2013,47324.0,Alojamiento
+55.0,2014,47200.0,Alojamiento
+55.0,2015,48116.0,Alojamiento
+55.0,2016,49406.0,Alojamiento
+55.0,2017,52538.0,Alojamiento
+55.0,2018,57672.0,Alojamiento
+55.0,2019,56136.0,Alojamiento
+55.0,2020,58150.0,Alojamiento
+55.0,2021,57964.0,Alojamiento
+55.0,2022,59994.0,Alojamiento
+55.0,2023,58664.0,Alojamiento
+55.0,2024,60926.0,Alojamiento
+56.0,2011,528292.0,Restauración
+56.0,2012,524840.0,Restauración
+56.0,2013,517700.0,Restauración
+56.0,2014,506148.0,Restauración
+56.0,2015,504708.0,Restauración
+56.0,2016,502780.0,Restauración
+56.0,2017,506688.0,Restauración
+56.0,2018,508992.0,Restauración
+56.0,2019,504022.0,Restauración
+56.0,2020,507108.0,Restauración
+56.0,2021,490206.0,Restauración
+56.0,2022,496658.0,Restauración
+56.0,2023,463656.0,Restauración
+56.0,2024,467086.0,Restauración
+58.0,2011,20058.0,Edición
+58.0,2012,19876.0,Edición
+58.0,2013,20524.0,Edición
+58.0,2014,20624.0,Edición
+58.0,2015,21338.0,Edición
+58.0,2016,21774.0,Edición
+58.0,2017,21942.0,Edición
+58.0,2018,22800.0,Edición
+58.0,2019,23138.0,Edición
+58.0,2020,23256.0,Edición
+58.0,2021,22648.0,Edición
+58.0,2022,23394.0,Edición
+58.0,2023,20738.0,Edición
+58.0,2024,20986.0,Edición
+59.0,2011,15200.0,Audiovisual
+59.0,2012,14928.0,Audiovisual
+59.0,2013,14324.0,Audiovisual
+59.0,2014,14060.0,Audiovisual
+59.0,2015,14348.0,Audiovisual
+59.0,2016,14252.0,Audiovisual
+59.0,2017,14570.0,Audiovisual
+59.0,2018,15242.0,Audiovisual
+59.0,2019,15958.0,Audiovisual
+59.0,2020,16222.0,Audiovisual
+59.0,2021,16856.0,Audiovisual
+59.0,2022,18578.0,Audiovisual
+59.0,2023,17498.0,Audiovisual
+59.0,2024,18240.0,Audiovisual
+60.0,2011,4150.0,Radio y televisión
+60.0,2012,4044.0,Radio y televisión
+60.0,2013,3922.0,Radio y televisión
+60.0,2014,3844.0,Radio y televisión
+60.0,2015,3848.0,Radio y televisión
+60.0,2016,3650.0,Radio y televisión
+60.0,2017,3584.0,Radio y televisión
+60.0,2018,3592.0,Radio y televisión
+60.0,2019,3254.0,Radio y televisión
+60.0,2020,3168.0,Radio y televisión
+60.0,2021,3000.0,Radio y televisión
+60.0,2022,2932.0,Radio y televisión
+60.0,2023,2502.0,Radio y televisión
+60.0,2024,2484.0,Radio y televisión
+61.0,2011,8308.0,Telecomunicaciones
+61.0,2012,8876.0,Telecomunicaciones
+61.0,2013,9384.0,Telecomunicaciones
+61.0,2014,10230.0,Telecomunicaciones
+61.0,2015,10788.0,Telecomunicaciones
+61.0,2016,11050.0,Telecomunicaciones
+61.0,2017,11622.0,Telecomunicaciones
+61.0,2018,12774.0,Telecomunicaciones
+61.0,2019,12494.0,Telecomunicaciones
+61.0,2020,12914.0,Telecomunicaciones
+61.0,2021,13032.0,Telecomunicaciones
+61.0,2022,13428.0,Telecomunicaciones
+61.0,2023,11794.0,Telecomunicaciones
+61.0,2024,11822.0,Telecomunicaciones
+62.0,2011,50062.0,Programación informática
+62.0,2012,51564.0,Programación informática
+62.0,2013,52308.0,Programación informática
+62.0,2014,53692.0,Programación informática
+62.0,2015,57062.0,Programación informática
+62.0,2016,61048.0,Programación informática
+62.0,2017,63768.0,Programación informática
+62.0,2018,66888.0,Programación informática
+62.0,2019,68976.0,Programación informática
+62.0,2020,70066.0,Programación informática
+62.0,2021,71206.0,Programación informática
+62.0,2022,76114.0,Programación informática
+62.0,2023,73826.0,Programación informática
+62.0,2024,77204.0,Programación informática
+63.0,2011,9524.0,Servicios de información
+63.0,2012,9636.0,Servicios de información
+63.0,2013,9884.0,Servicios de información
+63.0,2014,9750.0,Servicios de información
+63.0,2015,10332.0,Servicios de información
+63.0,2016,10650.0,Servicios de información
+63.0,2017,11566.0,Servicios de información
+63.0,2018,13200.0,Servicios de información
+63.0,2019,12496.0,Servicios de información
+63.0,2020,13112.0,Servicios de información
+63.0,2021,13020.0,Servicios de información
+63.0,2022,13392.0,Servicios de información
+63.0,2023,12788.0,Servicios de información
+63.0,2024,13222.0,Servicios de información
+64.0,2011,7642.0,Servicios financieros
+64.0,2012,7850.0,Servicios financieros
+64.0,2013,10208.0,Servicios financieros
+64.0,2014,4846.0,Servicios financieros
+64.0,2015,5162.0,Servicios financieros
+64.0,2016,5072.0,Servicios financieros
+64.0,2017,5756.0,Servicios financieros
+64.0,2018,7350.0,Servicios financieros
+64.0,2019,5584.0,Servicios financieros
+64.0,2020,6084.0,Servicios financieros
+64.0,2021,7288.0,Servicios financieros
+64.0,2022,8940.0,Servicios financieros
+64.0,2023,11666.0,Servicios financieros
+64.0,2024,12242.0,Servicios financieros
+65.0,2011,1812.0,Seguros
+65.0,2012,1726.0,Seguros
+65.0,2013,1738.0,Seguros
+65.0,2014,1762.0,Seguros
+65.0,2015,1722.0,Seguros
+65.0,2016,1944.0,Seguros
+65.0,2017,2104.0,Seguros
+65.0,2018,2248.0,Seguros
+65.0,2019,2050.0,Seguros
+65.0,2020,2042.0,Seguros
+65.0,2021,1990.0,Seguros
+65.0,2022,2014.0,Seguros
+65.0,2023,1764.0,Seguros
+65.0,2024,1752.0,Seguros
+66.0,2011,129886.0,Actividades auxiliares financieras
+66.0,2012,131402.0,Actividades auxiliares financieras
+66.0,2013,132764.0,Actividades auxiliares financieras
+66.0,2014,132740.0,Actividades auxiliares financieras
+66.0,2015,136460.0,Actividades auxiliares financieras
+66.0,2016,143958.0,Actividades auxiliares financieras
+66.0,2017,146820.0,Actividades auxiliares financieras
+66.0,2018,147588.0,Actividades auxiliares financieras
+66.0,2019,147158.0,Actividades auxiliares financieras
+66.0,2020,149576.0,Actividades auxiliares financieras
+66.0,2021,147176.0,Actividades auxiliares financieras
+66.0,2022,152466.0,Actividades auxiliares financieras
+66.0,2023,137916.0,Actividades auxiliares financieras
+66.0,2024,138492.0,Actividades auxiliares financieras
+68.0,2011,247482.0,Actividades inmobiliarias
+68.0,2012,256772.0,Actividades inmobiliarias
+68.0,2013,258004.0,Actividades inmobiliarias
+68.0,2014,274490.0,Actividades inmobiliarias
+68.0,2015,297652.0,Actividades inmobiliarias
+68.0,2016,318424.0,Actividades inmobiliarias
+68.0,2017,337080.0,Actividades inmobiliarias
+68.0,2018,353900.0,Actividades inmobiliarias
+68.0,2019,358968.0,Actividades inmobiliarias
+68.0,2020,372046.0,Actividades inmobiliarias
+68.0,2021,376912.0,Actividades inmobiliarias
+68.0,2022,396278.0,Actividades inmobiliarias
+68.0,2023,390856.0,Actividades inmobiliarias
+68.0,2024,412438.0,Actividades inmobiliarias
+69.0,2011,323380.0,Servicios jurídicos y contabilidad
+69.0,2012,321772.0,Servicios jurídicos y contabilidad
+69.0,2013,326896.0,Servicios jurídicos y contabilidad
+69.0,2014,303596.0,Servicios jurídicos y contabilidad
+69.0,2015,304526.0,Servicios jurídicos y contabilidad
+69.0,2016,310474.0,Servicios jurídicos y contabilidad
+69.0,2017,315382.0,Servicios jurídicos y contabilidad
+69.0,2018,319792.0,Servicios jurídicos y contabilidad
+69.0,2019,325184.0,Servicios jurídicos y contabilidad
+69.0,2020,323784.0,Servicios jurídicos y contabilidad
+69.0,2021,318166.0,Servicios jurídicos y contabilidad
+69.0,2022,315898.0,Servicios jurídicos y contabilidad
+69.0,2023,295806.0,Servicios jurídicos y contabilidad
+69.0,2024,294626.0,Servicios jurídicos y contabilidad
+70.0,2011,26720.0,Consultoría empresarial
+70.0,2012,27518.0,Consultoría empresarial
+70.0,2013,29268.0,Consultoría empresarial
+70.0,2014,31334.0,Consultoría empresarial
+70.0,2015,38658.0,Consultoría empresarial
+70.0,2016,39778.0,Consultoría empresarial
+70.0,2017,41932.0,Consultoría empresarial
+70.0,2018,47684.0,Consultoría empresarial
+70.0,2019,45730.0,Consultoría empresarial
+70.0,2020,47042.0,Consultoría empresarial
+70.0,2021,47568.0,Consultoría empresarial
+70.0,2022,50744.0,Consultoría empresarial
+70.0,2023,49436.0,Consultoría empresarial
+70.0,2024,52890.0,Consultoría empresarial
+71.0,2011,251640.0,Arquitectura e ingeniería
+71.0,2012,235562.0,Arquitectura e ingeniería
+71.0,2013,234284.0,Arquitectura e ingeniería
+71.0,2014,217726.0,Arquitectura e ingeniería
+71.0,2015,217156.0,Arquitectura e ingeniería
+71.0,2016,217844.0,Arquitectura e ingeniería
+71.0,2017,217098.0,Arquitectura e ingeniería
+71.0,2018,215206.0,Arquitectura e ingeniería
+71.0,2019,222344.0,Arquitectura e ingeniería
+71.0,2020,219914.0,Arquitectura e ingeniería
+71.0,2021,213732.0,Arquitectura e ingeniería
+71.0,2022,215228.0,Arquitectura e ingeniería
+71.0,2023,201936.0,Arquitectura e ingeniería
+71.0,2024,202136.0,Arquitectura e ingeniería
+72.0,2011,13278.0,I+D
+72.0,2012,12998.0,I+D
+72.0,2013,12944.0,I+D
+72.0,2014,12868.0,I+D
+72.0,2015,13840.0,I+D
+72.0,2016,14214.0,I+D
+72.0,2017,14468.0,I+D
+72.0,2018,15018.0,I+D
+72.0,2019,15978.0,I+D
+72.0,2020,16444.0,I+D
+72.0,2021,16412.0,I+D
+72.0,2022,17170.0,I+D
+72.0,2023,16272.0,I+D
+72.0,2024,17338.0,I+D
+73.0,2011,70542.0,Publicidad y estudios de mercado
+73.0,2012,66676.0,Publicidad y estudios de mercado
+73.0,2013,69112.0,Publicidad y estudios de mercado
+73.0,2014,73876.0,Publicidad y estudios de mercado
+73.0,2015,79542.0,Publicidad y estudios de mercado
+73.0,2016,82842.0,Publicidad y estudios de mercado
+73.0,2017,84096.0,Publicidad y estudios de mercado
+73.0,2018,84928.0,Publicidad y estudios de mercado
+73.0,2019,89132.0,Publicidad y estudios de mercado
+73.0,2020,93316.0,Publicidad y estudios de mercado
+73.0,2021,95904.0,Publicidad y estudios de mercado
+73.0,2022,103212.0,Publicidad y estudios de mercado
+73.0,2023,97020.0,Publicidad y estudios de mercado
+73.0,2024,100148.0,Publicidad y estudios de mercado
+74.0,2011,81262.0,Actividades profesionales
+74.0,2012,76742.0,Actividades profesionales
+74.0,2013,73268.0,Actividades profesionales
+74.0,2014,77048.0,Actividades profesionales
+74.0,2015,86490.0,Actividades profesionales
+74.0,2016,96608.0,Actividades profesionales
+74.0,2017,106738.0,Actividades profesionales
+74.0,2018,116892.0,Actividades profesionales
+74.0,2019,127914.0,Actividades profesionales
+74.0,2020,134920.0,Actividades profesionales
+74.0,2021,130442.0,Actividades profesionales
+74.0,2022,135102.0,Actividades profesionales
+74.0,2023,132096.0,Actividades profesionales
+74.0,2024,132526.0,Actividades profesionales
+75.0,2011,16424.0,Veterinaria
+75.0,2012,16844.0,Veterinaria
+75.0,2013,17480.0,Veterinaria
+75.0,2014,17858.0,Veterinaria
+75.0,2015,18618.0,Veterinaria
+75.0,2016,20058.0,Veterinaria
+75.0,2017,20718.0,Veterinaria
+75.0,2018,21204.0,Veterinaria
+75.0,2019,21328.0,Veterinaria
+75.0,2020,21192.0,Veterinaria
+75.0,2021,21206.0,Veterinaria
+75.0,2022,21272.0,Veterinaria
+75.0,2023,20504.0,Veterinaria
+75.0,2024,20376.0,Veterinaria
+77.0,2011,48780.0,Alquiler
+77.0,2012,47168.0,Alquiler
+77.0,2013,45746.0,Alquiler
+77.0,2014,45674.0,Alquiler
+77.0,2015,46450.0,Alquiler
+77.0,2016,47110.0,Alquiler
+77.0,2017,46546.0,Alquiler
+77.0,2018,45094.0,Alquiler
+77.0,2019,42870.0,Alquiler
+77.0,2020,45380.0,Alquiler
+77.0,2021,44044.0,Alquiler
+77.0,2022,44962.0,Alquiler
+77.0,2023,44500.0,Alquiler
+77.0,2024,46430.0,Alquiler
+78.0,2011,9306.0,Empleo
+78.0,2012,9160.0,Empleo
+78.0,2013,9038.0,Empleo
+78.0,2014,8988.0,Empleo
+78.0,2015,9426.0,Empleo
+78.0,2016,9704.0,Empleo
+78.0,2017,10112.0,Empleo
+78.0,2018,10566.0,Empleo
+78.0,2019,11092.0,Empleo
+78.0,2020,11892.0,Empleo
+78.0,2021,11834.0,Empleo
+78.0,2022,12566.0,Empleo
+78.0,2023,11834.0,Empleo
+78.0,2024,12290.0,Empleo
+79.0,2011,21984.0,Agencias de viajes
+79.0,2012,22368.0,Agencias de viajes
+79.0,2013,22252.0,Agencias de viajes
+79.0,2014,22734.0,Agencias de viajes
+79.0,2015,23980.0,Agencias de viajes
+79.0,2016,24832.0,Agencias de viajes
+79.0,2017,25966.0,Agencias de viajes
+79.0,2018,27526.0,Agencias de viajes
+79.0,2019,28528.0,Agencias de viajes
+79.0,2020,29826.0,Agencias de viajes
+79.0,2021,26992.0,Agencias de viajes
+79.0,2022,27062.0,Agencias de viajes
+79.0,2023,26110.0,Agencias de viajes
+79.0,2024,27784.0,Agencias de viajes
+80.0,2011,5862.0,Seguridad
+80.0,2012,5928.0,Seguridad
+80.0,2013,5864.0,Seguridad
+80.0,2014,6060.0,Seguridad
+80.0,2015,6256.0,Seguridad
+80.0,2016,6298.0,Seguridad
+80.0,2017,6556.0,Seguridad
+80.0,2018,6770.0,Seguridad
+80.0,2019,6662.0,Seguridad
+80.0,2020,6674.0,Seguridad
+80.0,2021,6624.0,Seguridad
+80.0,2022,6578.0,Seguridad
+80.0,2023,5984.0,Seguridad
+80.0,2024,6100.0,Seguridad
+81.0,2011,78802.0,Servicios a edificios
+81.0,2012,79008.0,Servicios a edificios
+81.0,2013,80616.0,Servicios a edificios
+81.0,2014,81562.0,Servicios a edificios
+81.0,2015,85220.0,Servicios a edificios
+81.0,2016,87754.0,Servicios a edificios
+81.0,2017,91738.0,Servicios a edificios
+81.0,2018,98228.0,Servicios a edificios
+81.0,2019,100148.0,Servicios a edificios
+81.0,2020,104436.0,Servicios a edificios
+81.0,2021,106612.0,Servicios a edificios
+81.0,2022,109214.0,Servicios a edificios
+81.0,2023,103176.0,Servicios a edificios
+81.0,2024,105692.0,Servicios a edificios
+82.0,2011,159922.0,Servicios administrativos
+82.0,2012,158384.0,Servicios administrativos
+82.0,2013,163326.0,Servicios administrativos
+82.0,2014,181860.0,Servicios administrativos
+82.0,2015,198602.0,Servicios administrativos
+82.0,2016,208900.0,Servicios administrativos
+82.0,2017,207830.0,Servicios administrativos
+82.0,2018,199596.0,Servicios administrativos
+82.0,2019,207120.0,Servicios administrativos
+82.0,2020,211318.0,Servicios administrativos
+82.0,2021,206392.0,Servicios administrativos
+82.0,2022,210406.0,Servicios administrativos
+82.0,2023,193970.0,Servicios administrativos
+82.0,2024,199584.0,Servicios administrativos
+85.0,2011,154176.0,Educación
+85.0,2012,160972.0,Educación
+85.0,2013,158216.0,Educación
+85.0,2014,169834.0,Educación
+85.0,2015,185378.0,Educación
+85.0,2016,197542.0,Educación
+85.0,2017,207656.0,Educación
+85.0,2018,214444.0,Educación
+85.0,2019,212868.0,Educación
+85.0,2020,225498.0,Educación
+85.0,2021,219998.0,Educación
+85.0,2022,229284.0,Educación
+85.0,2023,218658.0,Educación
+85.0,2024,225044.0,Educación
+86.0,2011,263218.0,Sanidad
+86.0,2012,261756.0,Sanidad
+86.0,2013,269004.0,Sanidad
+86.0,2014,263480.0,Sanidad
+86.0,2015,276466.0,Sanidad
+86.0,2016,285672.0,Sanidad
+86.0,2017,295560.0,Sanidad
+86.0,2018,303788.0,Sanidad
+86.0,2019,310118.0,Sanidad
+86.0,2020,321698.0,Sanidad
+86.0,2021,315916.0,Sanidad
+86.0,2022,327994.0,Sanidad
+86.0,2023,316114.0,Sanidad
+86.0,2024,324140.0,Sanidad
+87.0,2011,10088.0,Servicios sociales con alojamiento
+87.0,2012,10298.0,Servicios sociales con alojamiento
+87.0,2013,10314.0,Servicios sociales con alojamiento
+87.0,2014,10358.0,Servicios sociales con alojamiento
+87.0,2015,10324.0,Servicios sociales con alojamiento
+87.0,2016,10432.0,Servicios sociales con alojamiento
+87.0,2017,10196.0,Servicios sociales con alojamiento
+87.0,2018,10204.0,Servicios sociales con alojamiento
+87.0,2019,9612.0,Servicios sociales con alojamiento
+87.0,2020,9602.0,Servicios sociales con alojamiento
+87.0,2021,9578.0,Servicios sociales con alojamiento
+87.0,2022,9656.0,Servicios sociales con alojamiento
+87.0,2023,8816.0,Servicios sociales con alojamiento
+87.0,2024,8866.0,Servicios sociales con alojamiento
+88.0,2011,9576.0,Servicios sociales sin alojamiento
+88.0,2012,10092.0,Servicios sociales sin alojamiento
+88.0,2013,10226.0,Servicios sociales sin alojamiento
+88.0,2014,10434.0,Servicios sociales sin alojamiento
+88.0,2015,10594.0,Servicios sociales sin alojamiento
+88.0,2016,11078.0,Servicios sociales sin alojamiento
+88.0,2017,11386.0,Servicios sociales sin alojamiento
+88.0,2018,12034.0,Servicios sociales sin alojamiento
+88.0,2019,11650.0,Servicios sociales sin alojamiento
+88.0,2020,12206.0,Servicios sociales sin alojamiento
+88.0,2021,12118.0,Servicios sociales sin alojamiento
+88.0,2022,12534.0,Servicios sociales sin alojamiento
+88.0,2023,11520.0,Servicios sociales sin alojamiento
+88.0,2024,11702.0,Servicios sociales sin alojamiento
+90.0,2011,50378.0,Actividades artísticas
+90.0,2012,50494.0,Actividades artísticas
+90.0,2013,51220.0,Actividades artísticas
+90.0,2014,51804.0,Actividades artísticas
+90.0,2015,57416.0,Actividades artísticas
+90.0,2016,61770.0,Actividades artísticas
+90.0,2017,67246.0,Actividades artísticas
+90.0,2018,72230.0,Actividades artísticas
+90.0,2019,82434.0,Actividades artísticas
+90.0,2020,90954.0,Actividades artísticas
+90.0,2021,88014.0,Actividades artísticas
+90.0,2022,92428.0,Actividades artísticas
+90.0,2023,94370.0,Actividades artísticas
+90.0,2024,100830.0,Actividades artísticas
+91.0,2011,7612.0,Cultura
+91.0,2012,8514.0,Cultura
+91.0,2013,9092.0,Cultura
+91.0,2014,9960.0,Cultura
+91.0,2015,10728.0,Cultura
+91.0,2016,11178.0,Cultura
+91.0,2017,9250.0,Cultura
+91.0,2018,8744.0,Cultura
+91.0,2019,9544.0,Cultura
+91.0,2020,9900.0,Cultura
+91.0,2021,9854.0,Cultura
+91.0,2022,10050.0,Cultura
+91.0,2023,8252.0,Cultura
+91.0,2024,8730.0,Cultura
+92.0,2011,29454.0,Juego y apuestas
+92.0,2012,29276.0,Juego y apuestas
+92.0,2013,28640.0,Juego y apuestas
+92.0,2014,27720.0,Juego y apuestas
+92.0,2015,27014.0,Juego y apuestas
+92.0,2016,26960.0,Juego y apuestas
+92.0,2017,25682.0,Juego y apuestas
+92.0,2018,23026.0,Juego y apuestas
+92.0,2019,22788.0,Juego y apuestas
+92.0,2020,22136.0,Juego y apuestas
+92.0,2021,21930.0,Juego y apuestas
+92.0,2022,21526.0,Juego y apuestas
+92.0,2023,20048.0,Juego y apuestas
+92.0,2024,19776.0,Juego y apuestas
+93.0,2011,58944.0,Deporte y ocio
+93.0,2012,61412.0,Deporte y ocio
+93.0,2013,62154.0,Deporte y ocio
+93.0,2014,66890.0,Deporte y ocio
+93.0,2015,72112.0,Deporte y ocio
+93.0,2016,76522.0,Deporte y ocio
+93.0,2017,79526.0,Deporte y ocio
+93.0,2018,80642.0,Deporte y ocio
+93.0,2019,87926.0,Deporte y ocio
+93.0,2020,91508.0,Deporte y ocio
+93.0,2021,89458.0,Deporte y ocio
+93.0,2022,94278.0,Deporte y ocio
+93.0,2023,89462.0,Deporte y ocio
+93.0,2024,95534.0,Deporte y ocio
+94.0,2011,67410.0,Asociaciones
+94.0,2012,68040.0,Asociaciones
+94.0,2013,67390.0,Asociaciones
+94.0,2014,71308.0,Asociaciones
+94.0,2015,75188.0,Asociaciones
+94.0,2016,79050.0,Asociaciones
+94.0,2017,86024.0,Asociaciones
+94.0,2018,92312.0,Asociaciones
+94.0,2019,94052.0,Asociaciones
+94.0,2020,97328.0,Asociaciones
+94.0,2021,96382.0,Asociaciones
+94.0,2022,99966.0,Asociaciones
+94.0,2023,103610.0,Asociaciones
+94.0,2024,106010.0,Asociaciones
+95.0,2011,51706.0,Reparaciones
+95.0,2012,53630.0,Reparaciones
+95.0,2013,52076.0,Reparaciones
+95.0,2014,56230.0,Reparaciones
+95.0,2015,60890.0,Reparaciones
+95.0,2016,62788.0,Reparaciones
+95.0,2017,62802.0,Reparaciones
+95.0,2018,58638.0,Reparaciones
+95.0,2019,56714.0,Reparaciones
+95.0,2020,58088.0,Reparaciones
+95.0,2021,57242.0,Reparaciones
+95.0,2022,56866.0,Reparaciones
+95.0,2023,53556.0,Reparaciones
+95.0,2024,53856.0,Reparaciones
+96.0,2011,206862.0,Otros servicios personales
+96.0,2012,199534.0,Otros servicios personales
+96.0,2013,199270.0,Otros servicios personales
+96.0,2014,211562.0,Otros servicios personales
+96.0,2015,223378.0,Otros servicios personales
+96.0,2016,233358.0,Otros servicios personales
+96.0,2017,242758.0,Otros servicios personales
+96.0,2018,249376.0,Otros servicios personales
+96.0,2019,260370.0,Otros servicios personales
+96.0,2020,275602.0,Otros servicios personales
+96.0,2021,278666.0,Otros servicios personales
+96.0,2022,289730.0,Otros servicios personales
+96.0,2023,289860.0,Otros servicios personales
+96.0,2024,300778.0,Otros servicios personales
