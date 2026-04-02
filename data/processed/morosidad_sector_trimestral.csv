@@ -1,0 +1,639 @@
+periodo,sector,tasa_morosidad
+2011Q1,Actividades inmobiliarias,15.26
+2011Q2,Actividades inmobiliarias,17.7966
+2011Q3,Actividades inmobiliarias,18.9707
+2011Q4,Actividades inmobiliarias,21.418
+2012Q1,Actividades inmobiliarias,22.8007
+2012Q2,Actividades inmobiliarias,27.3893
+2012Q3,Actividades inmobiliarias,30.3265
+2012Q4,Actividades inmobiliarias,29.0525
+2013Q1,Actividades inmobiliarias,29.5633
+2013Q2,Actividades inmobiliarias,30.9318
+2013Q3,Actividades inmobiliarias,33.6628
+2013Q4,Actividades inmobiliarias,37.9987
+2014Q1,Actividades inmobiliarias,37.9358
+2014Q2,Actividades inmobiliarias,38.0419
+2014Q3,Actividades inmobiliarias,37.4495
+2014Q4,Actividades inmobiliarias,36.2102
+2015Q1,Actividades inmobiliarias,34.7499
+2015Q2,Actividades inmobiliarias,32.1241
+2015Q3,Actividades inmobiliarias,30.6369
+2015Q4,Actividades inmobiliarias,27.543
+2016Q1,Actividades inmobiliarias,27.638
+2016Q2,Actividades inmobiliarias,26.8875
+2016Q3,Actividades inmobiliarias,25.6275
+2016Q4,Actividades inmobiliarias,25.5006
+2017Q1,Actividades inmobiliarias,24.1177
+2017Q2,Actividades inmobiliarias,21.4705
+2017Q3,Actividades inmobiliarias,20.2668
+2017Q4,Actividades inmobiliarias,18.087
+2018Q1,Actividades inmobiliarias,11.6707
+2018Q2,Actividades inmobiliarias,10.5813
+2018Q3,Actividades inmobiliarias,9.3987
+2018Q4,Actividades inmobiliarias,8.9702
+2019Q1,Actividades inmobiliarias,8.3206
+2019Q2,Actividades inmobiliarias,7.2148
+2019Q3,Actividades inmobiliarias,6.383
+2019Q4,Actividades inmobiliarias,5.2372
+2020Q1,Actividades inmobiliarias,5.1839
+2020Q2,Actividades inmobiliarias,5.0944
+2020Q3,Actividades inmobiliarias,5.1077
+2020Q4,Actividades inmobiliarias,4.978
+2021Q1,Actividades inmobiliarias,4.8331
+2021Q2,Actividades inmobiliarias,4.5504
+2021Q3,Actividades inmobiliarias,4.4159
+2021Q4,Actividades inmobiliarias,4.1285
+2022Q1,Actividades inmobiliarias,4.3479
+2022Q2,Actividades inmobiliarias,4.0633
+2022Q3,Actividades inmobiliarias,3.9114
+2022Q4,Actividades inmobiliarias,3.7714
+2023Q1,Actividades inmobiliarias,3.4405
+2023Q2,Actividades inmobiliarias,3.4598
+2023Q3,Actividades inmobiliarias,3.1546
+2023Q4,Actividades inmobiliarias,2.9942
+2024Q1,Actividades inmobiliarias,2.7993
+2024Q2,Actividades inmobiliarias,2.7706
+2024Q3,Actividades inmobiliarias,2.5302
+2024Q4,Actividades inmobiliarias,2.4216
+2025Q1,Actividades inmobiliarias,2.2594
+2025Q2,Actividades inmobiliarias,1.9497
+2011Q1,Agricultura y pesca,4.3689
+2011Q2,Agricultura y pesca,5.3294
+2011Q3,Agricultura y pesca,5.8019
+2011Q4,Agricultura y pesca,6.517
+2012Q1,Agricultura y pesca,7.0142
+2012Q2,Agricultura y pesca,7.7434
+2012Q3,Agricultura y pesca,8.5517
+2012Q4,Agricultura y pesca,9.1676
+2013Q1,Agricultura y pesca,11.2034
+2013Q2,Agricultura y pesca,11.759
+2013Q3,Agricultura y pesca,12.8193
+2013Q4,Agricultura y pesca,13.6129
+2014Q1,Agricultura y pesca,13.091
+2014Q2,Agricultura y pesca,12.3845
+2014Q3,Agricultura y pesca,12.1298
+2014Q4,Agricultura y pesca,12.2713
+2015Q1,Agricultura y pesca,11.8247
+2015Q2,Agricultura y pesca,10.9766
+2015Q3,Agricultura y pesca,11.0408
+2015Q4,Agricultura y pesca,10.1469
+2016Q1,Agricultura y pesca,9.5906
+2016Q2,Agricultura y pesca,9.1232
+2016Q3,Agricultura y pesca,9.196
+2016Q4,Agricultura y pesca,9.0639
+2017Q1,Agricultura y pesca,8.8725
+2017Q2,Agricultura y pesca,8.2463
+2017Q3,Agricultura y pesca,7.968
+2017Q4,Agricultura y pesca,7.4504
+2018Q1,Agricultura y pesca,6.838
+2018Q2,Agricultura y pesca,6.4061
+2018Q3,Agricultura y pesca,6.374
+2018Q4,Agricultura y pesca,6.2204
+2019Q1,Agricultura y pesca,6.195
+2019Q2,Agricultura y pesca,5.8816
+2019Q3,Agricultura y pesca,5.9572
+2019Q4,Agricultura y pesca,6.0238
+2020Q1,Agricultura y pesca,6.1181
+2020Q2,Agricultura y pesca,5.8922
+2020Q3,Agricultura y pesca,5.7436
+2020Q4,Agricultura y pesca,5.5339
+2021Q1,Agricultura y pesca,5.3138
+2021Q2,Agricultura y pesca,5.2088
+2021Q3,Agricultura y pesca,5.2507
+2021Q4,Agricultura y pesca,5.1831
+2022Q1,Agricultura y pesca,5.165
+2022Q2,Agricultura y pesca,4.9861
+2022Q3,Agricultura y pesca,5.0271
+2022Q4,Agricultura y pesca,4.9233
+2023Q1,Agricultura y pesca,5.057
+2023Q2,Agricultura y pesca,5.2965
+2023Q3,Agricultura y pesca,5.2731
+2023Q4,Agricultura y pesca,5.4175
+2024Q1,Agricultura y pesca,5.7742
+2024Q2,Agricultura y pesca,5.5277
+2024Q3,Agricultura y pesca,5.4257
+2024Q4,Agricultura y pesca,5.5201
+2025Q1,Agricultura y pesca,5.4969
+2025Q2,Agricultura y pesca,5.0978
+2011Q1,Comercio y reparaciones,5.8027
+2011Q2,Comercio y reparaciones,6.2116
+2011Q3,Comercio y reparaciones,6.8362
+2011Q4,Comercio y reparaciones,7.2444
+2012Q1,Comercio y reparaciones,7.7505
+2012Q2,Comercio y reparaciones,8.6706
+2012Q3,Comercio y reparaciones,9.6747
+2012Q4,Comercio y reparaciones,10.8229
+2013Q1,Comercio y reparaciones,11.5141
+2013Q2,Comercio y reparaciones,13.1708
+2013Q3,Comercio y reparaciones,14.2215
+2013Q4,Comercio y reparaciones,15.1114
+2014Q1,Comercio y reparaciones,15.2113
+2014Q2,Comercio y reparaciones,14.8508
+2014Q3,Comercio y reparaciones,15.8572
+2014Q4,Comercio y reparaciones,15.3302
+2015Q1,Comercio y reparaciones,15.5744
+2015Q2,Comercio y reparaciones,14.2308
+2015Q3,Comercio y reparaciones,13.6586
+2015Q4,Comercio y reparaciones,12.6213
+2016Q1,Comercio y reparaciones,12.1472
+2016Q2,Comercio y reparaciones,11.5311
+2016Q3,Comercio y reparaciones,11.5634
+2016Q4,Comercio y reparaciones,11.2241
+2017Q1,Comercio y reparaciones,10.9884
+2017Q2,Comercio y reparaciones,10.241
+2017Q3,Comercio y reparaciones,10.894
+2017Q4,Comercio y reparaciones,10.1976
+2018Q1,Comercio y reparaciones,9.294
+2018Q2,Comercio y reparaciones,8.9121
+2018Q3,Comercio y reparaciones,8.65
+2018Q4,Comercio y reparaciones,8.9271
+2019Q1,Comercio y reparaciones,8.9321
+2019Q2,Comercio y reparaciones,8.6148
+2019Q3,Comercio y reparaciones,8.4473
+2019Q4,Comercio y reparaciones,8.2049
+2020Q1,Comercio y reparaciones,7.8022
+2020Q2,Comercio y reparaciones,7.0095
+2020Q3,Comercio y reparaciones,6.9502
+2020Q4,Comercio y reparaciones,6.8736
+2021Q1,Comercio y reparaciones,6.5861
+2021Q2,Comercio y reparaciones,6.6377
+2021Q3,Comercio y reparaciones,6.4471
+2021Q4,Comercio y reparaciones,6.2874
+2022Q1,Comercio y reparaciones,6.1757
+2022Q2,Comercio y reparaciones,5.5758
+2022Q3,Comercio y reparaciones,5.7888
+2022Q4,Comercio y reparaciones,5.5092
+2023Q1,Comercio y reparaciones,5.4535
+2023Q2,Comercio y reparaciones,5.4623
+2023Q3,Comercio y reparaciones,5.5765
+2023Q4,Comercio y reparaciones,5.6506
+2024Q1,Comercio y reparaciones,6.0572
+2024Q2,Comercio y reparaciones,5.8214
+2024Q3,Comercio y reparaciones,6.1067
+2024Q4,Comercio y reparaciones,5.7223
+2025Q1,Comercio y reparaciones,5.7493
+2025Q2,Comercio y reparaciones,5.649
+2011Q1,Construccion,13.3324
+2011Q2,Construccion,14.7309
+2011Q3,Construccion,16.0919
+2011Q4,Construccion,18.2462
+2012Q1,Construccion,20.0919
+2012Q2,Construccion,23.9008
+2012Q3,Construccion,26.3604
+2012Q4,Construccion,25.8383
+2013Q1,Construccion,25.2888
+2013Q2,Construccion,29.1461
+2013Q3,Construccion,31.1001
+2013Q4,Construccion,34.2731
+2014Q1,Construccion,33.0103
+2014Q2,Construccion,32.5537
+2014Q3,Construccion,32.9095
+2014Q4,Construccion,32.6205
+2015Q1,Construccion,32.1447
+2015Q2,Construccion,29.7566
+2015Q3,Construccion,29.2425
+2015Q4,Construccion,30.0341
+2016Q1,Construccion,29.0622
+2016Q2,Construccion,29.5982
+2016Q3,Construccion,29.0578
+2016Q4,Construccion,29.0949
+2017Q1,Construccion,27.2342
+2017Q2,Construccion,27.6142
+2017Q3,Construccion,24.0011
+2017Q4,Construccion,24.1144
+2018Q1,Construccion,18.7119
+2018Q2,Construccion,17.5717
+2018Q3,Construccion,16.6756
+2018Q4,Construccion,13.9677
+2019Q1,Construccion,13.2889
+2019Q2,Construccion,12.6664
+2019Q3,Construccion,12.556
+2019Q4,Construccion,11.7149
+2020Q1,Construccion,11.4485
+2020Q2,Construccion,9.8283
+2020Q3,Construccion,9.4854
+2020Q4,Construccion,9.1534
+2021Q1,Construccion,9.0982
+2021Q2,Construccion,9.1179
+2021Q3,Construccion,8.6835
+2021Q4,Construccion,8.4624
+2022Q1,Construccion,8.3975
+2022Q2,Construccion,8.3874
+2022Q3,Construccion,8.0351
+2022Q4,Construccion,8.0698
+2023Q1,Construccion,7.7846
+2023Q2,Construccion,7.9237
+2023Q3,Construccion,7.7902
+2023Q4,Construccion,8.1631
+2024Q1,Construccion,8.5661
+2024Q2,Construccion,8.3814
+2024Q3,Construccion,8.0938
+2024Q4,Construccion,8.0543
+2025Q1,Construccion,7.6163
+2025Q2,Construccion,7.198
+2011Q1,Hosteleria,5.7803
+2011Q2,Hosteleria,6.4218
+2011Q3,Hosteleria,6.9182
+2011Q4,Hosteleria,8.2078
+2012Q1,Hosteleria,9.1362
+2012Q2,Hosteleria,11.8326
+2012Q3,Hosteleria,13.6037
+2012Q4,Hosteleria,16.7799
+2013Q1,Hosteleria,18.4164
+2013Q2,Hosteleria,19.9403
+2013Q3,Hosteleria,21.6931
+2013Q4,Hosteleria,23.2222
+2014Q1,Hosteleria,21.2486
+2014Q2,Hosteleria,21.1803
+2014Q3,Hosteleria,21.679
+2014Q4,Hosteleria,20.3181
+2015Q1,Hosteleria,19.4828
+2015Q2,Hosteleria,18.1608
+2015Q3,Hosteleria,18.4076
+2015Q4,Hosteleria,17.0912
+2016Q1,Hosteleria,16.2716
+2016Q2,Hosteleria,15.6353
+2016Q3,Hosteleria,15.2445
+2016Q4,Hosteleria,14.509
+2017Q1,Hosteleria,13.171
+2017Q2,Hosteleria,12.0688
+2017Q3,Hosteleria,12.5494
+2017Q4,Hosteleria,10.6986
+2018Q1,Hosteleria,9.748
+2018Q2,Hosteleria,9.1921
+2018Q3,Hosteleria,8.9786
+2018Q4,Hosteleria,7.8804
+2019Q1,Hosteleria,7.5478
+2019Q2,Hosteleria,6.5628
+2019Q3,Hosteleria,6.4204
+2019Q4,Hosteleria,5.7559
+2020Q1,Hosteleria,5.4413
+2020Q2,Hosteleria,5.3001
+2020Q3,Hosteleria,5.1038
+2020Q4,Hosteleria,5.3533
+2021Q1,Hosteleria,6.1901
+2021Q2,Hosteleria,7.8067
+2021Q3,Hosteleria,7.3047
+2021Q4,Hosteleria,7.6626
+2022Q1,Hosteleria,8.7356
+2022Q2,Hosteleria,8.4051
+2022Q3,Hosteleria,8.7817
+2022Q4,Hosteleria,7.9833
+2023Q1,Hosteleria,7.7851
+2023Q2,Hosteleria,7.1547
+2023Q3,Hosteleria,7.0079
+2023Q4,Hosteleria,6.4773
+2024Q1,Hosteleria,6.1442
+2024Q2,Hosteleria,6.2933
+2024Q3,Hosteleria,6.1971
+2024Q4,Hosteleria,5.8551
+2025Q1,Hosteleria,5.3398
+2025Q2,Hosteleria,4.575
+2011Q1,Industria (exc. construccion),4.6986
+2011Q2,Industria (exc. construccion),4.8649
+2011Q3,Industria (exc. construccion),5.1915
+2011Q4,Industria (exc. construccion),5.5361
+2012Q1,Industria (exc. construccion),6.1
+2012Q2,Industria (exc. construccion),6.9676
+2012Q3,Industria (exc. construccion),7.8585
+2012Q4,Industria (exc. construccion),9.1096
+2013Q1,Industria (exc. construccion),9.9108
+2013Q2,Industria (exc. construccion),11.5084
+2013Q3,Industria (exc. construccion),12.5848
+2013Q4,Industria (exc. construccion),13.1215
+2014Q1,Industria (exc. construccion),13.4333
+2014Q2,Industria (exc. construccion),13.6947
+2014Q3,Industria (exc. construccion),13.4724
+2014Q4,Industria (exc. construccion),12.7855
+2015Q1,Industria (exc. construccion),12.5914
+2015Q2,Industria (exc. construccion),11.8313
+2015Q3,Industria (exc. construccion),11.6523
+2015Q4,Industria (exc. construccion),10.8709
+2016Q1,Industria (exc. construccion),10.1975
+2016Q2,Industria (exc. construccion),9.528
+2016Q3,Industria (exc. construccion),9.2697
+2016Q4,Industria (exc. construccion),8.9137
+2017Q1,Industria (exc. construccion),8.6548
+2017Q2,Industria (exc. construccion),8.6217
+2017Q3,Industria (exc. construccion),8.9181
+2017Q4,Industria (exc. construccion),8.5704
+2018Q1,Industria (exc. construccion),7.3388
+2018Q2,Industria (exc. construccion),6.9039
+2018Q3,Industria (exc. construccion),6.7512
+2018Q4,Industria (exc. construccion),6.192
+2019Q1,Industria (exc. construccion),5.9733
+2019Q2,Industria (exc. construccion),5.5959
+2019Q3,Industria (exc. construccion),5.5735
+2019Q4,Industria (exc. construccion),5.4017
+2020Q1,Industria (exc. construccion),5.2273
+2020Q2,Industria (exc. construccion),4.8451
+2020Q3,Industria (exc. construccion),4.8847
+2020Q4,Industria (exc. construccion),4.7759
+2021Q1,Industria (exc. construccion),4.7701
+2021Q2,Industria (exc. construccion),4.7638
+2021Q3,Industria (exc. construccion),4.7177
+2021Q4,Industria (exc. construccion),4.4202
+2022Q1,Industria (exc. construccion),4.2006
+2022Q2,Industria (exc. construccion),3.7244
+2022Q3,Industria (exc. construccion),3.7307
+2022Q4,Industria (exc. construccion),3.751
+2023Q1,Industria (exc. construccion),3.6775
+2023Q2,Industria (exc. construccion),3.7868
+2023Q3,Industria (exc. construccion),3.7193
+2023Q4,Industria (exc. construccion),3.9731
+2024Q1,Industria (exc. construccion),3.994
+2024Q2,Industria (exc. construccion),4.0064
+2024Q3,Industria (exc. construccion),4.1077
+2024Q4,Industria (exc. construccion),4.169
+2025Q1,Industria (exc. construccion),4.0788
+2025Q2,Industria (exc. construccion),3.7628
+2011Q1,Intermediacion financiera,0.7827
+2011Q2,Intermediacion financiera,0.8543
+2011Q3,Intermediacion financiera,1.3383
+2011Q4,Intermediacion financiera,1.2856
+2012Q1,Intermediacion financiera,1.2729
+2012Q2,Intermediacion financiera,1.4564
+2012Q3,Intermediacion financiera,1.7318
+2012Q4,Intermediacion financiera,1.9104
+2013Q1,Intermediacion financiera,1.8814
+2013Q2,Intermediacion financiera,2.6002
+2013Q3,Intermediacion financiera,3.0761
+2013Q4,Intermediacion financiera,3.2067
+2014Q1,Intermediacion financiera,2.5506
+2014Q2,Intermediacion financiera,2.6204
+2014Q3,Intermediacion financiera,2.5224
+2014Q4,Intermediacion financiera,2.4153
+2015Q1,Intermediacion financiera,2.2804
+2015Q2,Intermediacion financiera,2.4123
+2015Q3,Intermediacion financiera,2.0999
+2015Q4,Intermediacion financiera,2.1105
+2016Q1,Intermediacion financiera,2.545
+2016Q2,Intermediacion financiera,2.5229
+2016Q3,Intermediacion financiera,2.1536
+2016Q4,Intermediacion financiera,2.1411
+2017Q1,Intermediacion financiera,1.7242
+2017Q2,Intermediacion financiera,0.4333
+2017Q3,Intermediacion financiera,0.4177
+2017Q4,Intermediacion financiera,0.3782
+2018Q1,Intermediacion financiera,0.3393
+2018Q2,Intermediacion financiera,0.2861
+2018Q3,Intermediacion financiera,0.3187
+2018Q4,Intermediacion financiera,0.2673
+2019Q1,Intermediacion financiera,0.2469
+2019Q2,Intermediacion financiera,0.2262
+2019Q3,Intermediacion financiera,0.3096
+2019Q4,Intermediacion financiera,0.2118
+2020Q1,Intermediacion financiera,0.2164
+2020Q2,Intermediacion financiera,0.3406
+2020Q3,Intermediacion financiera,0.3568
+2020Q4,Intermediacion financiera,0.2729
+2021Q1,Intermediacion financiera,0.2218
+2021Q2,Intermediacion financiera,0.2194
+2021Q3,Intermediacion financiera,0.3417
+2021Q4,Intermediacion financiera,0.3522
+2022Q1,Intermediacion financiera,0.3542
+2022Q2,Intermediacion financiera,0.3152
+2022Q3,Intermediacion financiera,0.3702
+2022Q4,Intermediacion financiera,0.3135
+2023Q1,Intermediacion financiera,0.3651
+2023Q2,Intermediacion financiera,0.5084
+2023Q3,Intermediacion financiera,0.4969
+2023Q4,Intermediacion financiera,0.4474
+2024Q1,Intermediacion financiera,0.3871
+2024Q2,Intermediacion financiera,0.4272
+2024Q3,Intermediacion financiera,0.4466
+2024Q4,Intermediacion financiera,0.4378
+2025Q1,Intermediacion financiera,0.4346
+2025Q2,Intermediacion financiera,0.4434
+2011Q1,Otros servicios,4.0246
+2011Q2,Otros servicios,4.5232
+2011Q3,Otros servicios,4.486
+2011Q4,Otros servicios,5.242
+2012Q1,Otros servicios,5.7703
+2012Q2,Otros servicios,7.1895
+2012Q3,Otros servicios,7.8942
+2012Q4,Otros servicios,8.6747
+2013Q1,Otros servicios,9.1566
+2013Q2,Otros servicios,10.5909
+2013Q3,Otros servicios,11.7775
+2013Q4,Otros servicios,12.8849
+2014Q1,Otros servicios,12.4053
+2014Q2,Otros servicios,11.8583
+2014Q3,Otros servicios,12.079
+2014Q4,Otros servicios,12.0362
+2015Q1,Otros servicios,11.3835
+2015Q2,Otros servicios,10.3854
+2015Q3,Otros servicios,9.5373
+2015Q4,Otros servicios,9.8235
+2016Q1,Otros servicios,9.7887
+2016Q2,Otros servicios,9.3813
+2016Q3,Otros servicios,9.3081
+2016Q4,Otros servicios,8.8466
+2017Q1,Otros servicios,8.4902
+2017Q2,Otros servicios,9.1564
+2017Q3,Otros servicios,9.0198
+2017Q4,Otros servicios,8.5218
+2018Q1,Otros servicios,8.9628
+2018Q2,Otros servicios,8.0472
+2018Q3,Otros servicios,7.8383
+2018Q4,Otros servicios,6.9124
+2019Q1,Otros servicios,6.862
+2019Q2,Otros servicios,6.4386
+2019Q3,Otros servicios,6.0734
+2019Q4,Otros servicios,5.1689
+2020Q1,Otros servicios,5.176
+2020Q2,Otros servicios,4.9535
+2020Q3,Otros servicios,4.8766
+2020Q4,Otros servicios,5.7039
+2021Q1,Otros servicios,5.4482
+2021Q2,Otros servicios,5.2303
+2021Q3,Otros servicios,4.9359
+2021Q4,Otros servicios,4.9949
+2022Q1,Otros servicios,5.0178
+2022Q2,Otros servicios,5.0905
+2022Q3,Otros servicios,4.4387
+2022Q4,Otros servicios,4.129
+2023Q1,Otros servicios,4.0637
+2023Q2,Otros servicios,3.838
+2023Q3,Otros servicios,3.866
+2023Q4,Otros servicios,3.8524
+2024Q1,Otros servicios,3.8767
+2024Q2,Otros servicios,3.6188
+2024Q3,Otros servicios,3.5336
+2024Q4,Otros servicios,3.3307
+2025Q1,Otros servicios,3.2656
+2025Q2,Otros servicios,3.1213
+2011Q1,Servicios Total,8.5648
+2011Q2,Servicios Total,9.7937
+2011Q3,Servicios Total,10.5144
+2011Q4,Servicios Total,11.6754
+2012Q1,Servicios Total,12.323
+2012Q2,Servicios Total,14.8269
+2012Q3,Servicios Total,16.5506
+2012Q4,Servicios Total,15.7617
+2013Q1,Servicios Total,15.6992
+2013Q2,Servicios Total,17.3524
+2013Q3,Servicios Total,18.9563
+2013Q4,Servicios Total,20.5237
+2014Q1,Servicios Total,19.8184
+2014Q2,Servicios Total,19.5158
+2014Q3,Servicios Total,19.6815
+2014Q4,Servicios Total,18.5792
+2015Q1,Servicios Total,17.5271
+2015Q2,Servicios Total,16.1373
+2015Q3,Servicios Total,15.1695
+2015Q4,Servicios Total,14.2295
+2016Q1,Servicios Total,14.5546
+2016Q2,Servicios Total,13.8417
+2016Q3,Servicios Total,13.2911
+2016Q4,Servicios Total,12.8475
+2017Q1,Servicios Total,12.2003
+2017Q2,Servicios Total,11.1515
+2017Q3,Servicios Total,10.7944
+2017Q4,Servicios Total,9.6969
+2018Q1,Servicios Total,8.0561
+2018Q2,Servicios Total,7.4655
+2018Q3,Servicios Total,7.023
+2018Q4,Servicios Total,6.5587
+2019Q1,Servicios Total,6.4518
+2019Q2,Servicios Total,5.8634
+2019Q3,Servicios Total,5.5558
+2019Q4,Servicios Total,4.945
+2020Q1,Servicios Total,4.8617
+2020Q2,Servicios Total,4.5708
+2020Q3,Servicios Total,4.5597
+2020Q4,Servicios Total,4.7248
+2021Q1,Servicios Total,4.7293
+2021Q2,Servicios Total,4.7185
+2021Q3,Servicios Total,4.6061
+2021Q4,Servicios Total,4.5808
+2022Q1,Servicios Total,4.7399
+2022Q2,Servicios Total,4.5199
+2022Q3,Servicios Total,4.3583
+2022Q4,Servicios Total,4.0409
+2023Q1,Servicios Total,3.9593
+2023Q2,Servicios Total,3.8523
+2023Q3,Servicios Total,3.8426
+2023Q4,Servicios Total,3.7503
+2024Q1,Servicios Total,3.7806
+2024Q2,Servicios Total,3.6174
+2024Q3,Servicios Total,3.5996
+2024Q4,Servicios Total,3.4126
+2025Q1,Servicios Total,3.328
+2025Q2,Servicios Total,3.1529
+2011Q1,Total,8.429
+2011Q2,Total,9.4906
+2011Q3,Total,10.1981
+2011Q4,Total,11.3208
+2012Q1,Total,12.0786
+2012Q2,Total,14.4031
+2012Q3,Total,16.0266
+2012Q4,Total,15.4756
+2013Q1,Total,15.4987
+2013Q2,Total,17.2684
+2013Q3,Total,18.816
+2013Q4,Total,20.308
+2014Q1,Total,19.7178
+2014Q2,Total,19.4514
+2014Q3,Total,19.5285
+2014Q4,Total,18.4854
+2015Q1,Total,17.619
+2015Q2,Total,16.2316
+2015Q3,Total,15.4427
+2015Q4,Total,14.6167
+2016Q1,Total,14.6307
+2016Q2,Total,13.992
+2016Q3,Total,13.5285
+2016Q4,Total,13.0998
+2017Q1,Total,12.4268
+2017Q2,Total,11.5825
+2017Q3,Total,11.147
+2017Q4,Total,10.2569
+2018Q1,Total,8.4641
+2018Q2,Total,7.8434
+2018Q3,Total,7.4387
+2018Q4,Total,6.8693
+2019Q1,Total,6.7125
+2019Q2,Total,6.1628
+2019Q3,Total,5.9303
+2019Q4,Total,5.4062
+2020Q1,Total,5.3118
+2020Q2,Total,4.9323
+2020Q3,Total,4.9123
+2020Q4,Total,4.9809
+2021Q1,Total,4.9724
+2021Q2,Total,4.9585
+2021Q3,Total,4.852
+2021Q4,Total,4.7593
+2022Q1,Total,4.8276
+2022Q2,Total,4.5558
+2022Q3,Total,4.4323
+2022Q4,Total,4.2079
+2023Q1,Total,4.1303
+2023Q2,Total,4.0902
+2023Q3,Total,4.0628
+2023Q4,Total,4.0643
+2024Q1,Total,4.1201
+2024Q2,Total,3.9818
+2024Q3,Total,3.976
+2024Q4,Total,3.8512
+2025Q1,Total,3.7464
+2025Q2,Total,3.5228
+2011Q1,Transporte y almacenamiento,3.2962
+2011Q2,Transporte y almacenamiento,3.2848
+2011Q3,Transporte y almacenamiento,3.4848
+2011Q4,Transporte y almacenamiento,4.137
+2012Q1,Transporte y almacenamiento,4.5916
+2012Q2,Transporte y almacenamiento,6.0724
+2012Q3,Transporte y almacenamiento,6.418
+2012Q4,Transporte y almacenamiento,8.2327
+2013Q1,Transporte y almacenamiento,9.0508
+2013Q2,Transporte y almacenamiento,11.2275
+2013Q3,Transporte y almacenamiento,10.2725
+2013Q4,Transporte y almacenamiento,12.2577
+2014Q1,Transporte y almacenamiento,15.1038
+2014Q2,Transporte y almacenamiento,15.6358
+2014Q3,Transporte y almacenamiento,15.4553
+2014Q4,Transporte y almacenamiento,15.2672
+2015Q1,Transporte y almacenamiento,15.3107
+2015Q2,Transporte y almacenamiento,14.5938
+2015Q3,Transporte y almacenamiento,12.5787
+2015Q4,Transporte y almacenamiento,11.642
+2016Q1,Transporte y almacenamiento,11.5338
+2016Q2,Transporte y almacenamiento,10.2624
+2016Q3,Transporte y almacenamiento,9.0336
+2016Q4,Transporte y almacenamiento,7.6582
+2017Q1,Transporte y almacenamiento,7.1634
+2017Q2,Transporte y almacenamiento,6.259
+2017Q3,Transporte y almacenamiento,6.1143
+2017Q4,Transporte y almacenamiento,6.2685
+2018Q1,Transporte y almacenamiento,5.7946
+2018Q2,Transporte y almacenamiento,5.5867
+2018Q3,Transporte y almacenamiento,5.337
+2018Q4,Transporte y almacenamiento,4.8316
+2019Q1,Transporte y almacenamiento,4.898
+2019Q2,Transporte y almacenamiento,4.6582
+2019Q3,Transporte y almacenamiento,4.6218
+2019Q4,Transporte y almacenamiento,4.3751
+2020Q1,Transporte y almacenamiento,4.33
+2020Q2,Transporte y almacenamiento,3.9286
+2020Q3,Transporte y almacenamiento,3.759
+2020Q4,Transporte y almacenamiento,4.0381
+2021Q1,Transporte y almacenamiento,4.3619
+2021Q2,Transporte y almacenamiento,4.5923
+2021Q3,Transporte y almacenamiento,4.7359
+2021Q4,Transporte y almacenamiento,4.7322
+2022Q1,Transporte y almacenamiento,4.8765
+2022Q2,Transporte y almacenamiento,4.8961
+2022Q3,Transporte y almacenamiento,4.4332
+2022Q4,Transporte y almacenamiento,3.8215
+2023Q1,Transporte y almacenamiento,3.8554
+2023Q2,Transporte y almacenamiento,3.7012
+2023Q3,Transporte y almacenamiento,4.1148
+2023Q4,Transporte y almacenamiento,4.0214
+2024Q1,Transporte y almacenamiento,3.8677
+2024Q2,Transporte y almacenamiento,3.5815
+2024Q3,Transporte y almacenamiento,3.6259
+2024Q4,Transporte y almacenamiento,3.4187
+2025Q1,Transporte y almacenamiento,3.3337
+2025Q2,Transporte y almacenamiento,3.5049

@@ -1,0 +1,721 @@
+periodo,sector,concursos
+2011Q1,A Agricultura y pesca,16
+2011Q2,A Agricultura y pesca,15
+2011Q3,A Agricultura y pesca,13
+2011Q4,A Agricultura y pesca,20
+2012Q1,A Agricultura y pesca,11
+2012Q2,A Agricultura y pesca,23
+2012Q3,A Agricultura y pesca,16
+2012Q4,A Agricultura y pesca,21
+2013Q1,A Agricultura y pesca,16
+2013Q2,A Agricultura y pesca,32
+2013Q3,A Agricultura y pesca,14
+2013Q4,A Agricultura y pesca,21
+2014Q1,A Agricultura y pesca,18
+2014Q2,A Agricultura y pesca,17
+2014Q3,A Agricultura y pesca,9
+2014Q4,A Agricultura y pesca,13
+2015Q1,A Agricultura y pesca,20
+2015Q2,A Agricultura y pesca,15
+2015Q3,A Agricultura y pesca,23
+2015Q4,A Agricultura y pesca,12
+2016Q1,A Agricultura y pesca,6
+2016Q2,A Agricultura y pesca,15
+2016Q3,A Agricultura y pesca,5
+2016Q4,A Agricultura y pesca,18
+2017Q1,A Agricultura y pesca,11
+2017Q2,A Agricultura y pesca,19
+2017Q3,A Agricultura y pesca,11
+2017Q4,A Agricultura y pesca,13
+2018Q1,A Agricultura y pesca,20
+2018Q2,A Agricultura y pesca,15
+2018Q3,A Agricultura y pesca,21
+2018Q4,A Agricultura y pesca,9
+2019Q1,A Agricultura y pesca,12
+2019Q2,A Agricultura y pesca,13
+2019Q3,A Agricultura y pesca,10
+2019Q4,A Agricultura y pesca,30
+2020Q1,A Agricultura y pesca,16
+2020Q2,A Agricultura y pesca,8
+2020Q3,A Agricultura y pesca,10
+2020Q4,A Agricultura y pesca,16
+2021Q1,A Agricultura y pesca,9
+2021Q2,A Agricultura y pesca,8
+2021Q3,A Agricultura y pesca,9
+2021Q4,A Agricultura y pesca,19
+2022Q1,A Agricultura y pesca,18
+2022Q2,A Agricultura y pesca,11
+2022Q3,A Agricultura y pesca,21
+2022Q4,A Agricultura y pesca,16
+2023Q1,A Agricultura y pesca,20
+2023Q2,A Agricultura y pesca,18
+2023Q3,A Agricultura y pesca,10
+2023Q4,A Agricultura y pesca,24
+2024Q1,A Agricultura y pesca,23
+2024Q2,A Agricultura y pesca,28
+2024Q3,A Agricultura y pesca,12
+2024Q4,A Agricultura y pesca,15
+2025Q1,A Agricultura y pesca,36
+2025Q2,A Agricultura y pesca,20
+2025Q3,A Agricultura y pesca,11
+2025Q4,A Agricultura y pesca,15
+2011Q1,F Construcción,513
+2011Q2,F Construcción,490
+2011Q3,F Construcción,374
+2011Q4,F Construcción,537
+2012Q1,F Construcción,694
+2012Q2,F Construcción,673
+2012Q3,F Construcción,448
+2012Q4,F Construcción,672
+2013Q1,F Construcción,667
+2013Q2,F Construcción,709
+2013Q3,F Construcción,484
+2013Q4,F Construcción,570
+2014Q1,F Construcción,457
+2014Q2,F Construcción,420
+2014Q3,F Construcción,296
+2014Q4,F Construcción,338
+2015Q1,F Construcción,315
+2015Q2,F Construcción,292
+2015Q3,F Construcción,198
+2015Q4,F Construcción,226
+2016Q1,F Construcción,206
+2016Q2,F Construcción,207
+2016Q3,F Construcción,168
+2016Q4,F Construcción,201
+2017Q1,F Construcción,180
+2017Q2,F Construcción,202
+2017Q3,F Construcción,126
+2017Q4,F Construcción,148
+2018Q1,F Construcción,171
+2018Q2,F Construcción,209
+2018Q3,F Construcción,129
+2018Q4,F Construcción,152
+2019Q1,F Construcción,139
+2019Q2,F Construcción,154
+2019Q3,F Construcción,151
+2019Q4,F Construcción,159
+2020Q1,F Construcción,163
+2020Q2,F Construcción,109
+2020Q3,F Construcción,138
+2020Q4,F Construcción,168
+2021Q1,F Construcción,150
+2021Q2,F Construcción,178
+2021Q3,F Construcción,120
+2021Q4,F Construcción,153
+2022Q1,F Construcción,187
+2022Q2,F Construcción,187
+2022Q3,F Construcción,219
+2022Q4,F Construcción,166
+2023Q1,F Construcción,137
+2023Q2,F Construcción,198
+2023Q3,F Construcción,192
+2023Q4,F Construcción,236
+2024Q1,F Construcción,239
+2024Q2,F Construcción,222
+2024Q3,F Construcción,179
+2024Q4,F Construcción,219
+2025Q1,F Construcción,240
+2025Q2,F Construcción,241
+2025Q3,F Construcción,196
+2025Q4,F Construcción,248
+2011Q1,G Comercio,254
+2011Q2,G Comercio,280
+2011Q3,G Comercio,211
+2011Q4,G Comercio,304
+2012Q1,G Comercio,372
+2012Q2,G Comercio,369
+2012Q3,G Comercio,300
+2012Q4,G Comercio,464
+2013Q1,G Comercio,451
+2013Q2,G Comercio,455
+2013Q3,G Comercio,344
+2013Q4,G Comercio,437
+2014Q1,G Comercio,372
+2014Q2,G Comercio,343
+2014Q3,G Comercio,256
+2014Q4,G Comercio,301
+2015Q1,G Comercio,301
+2015Q2,G Comercio,286
+2015Q3,G Comercio,243
+2015Q4,G Comercio,270
+2016Q1,G Comercio,221
+2016Q2,G Comercio,243
+2016Q3,G Comercio,195
+2016Q4,G Comercio,236
+2017Q1,G Comercio,218
+2017Q2,G Comercio,276
+2017Q3,G Comercio,176
+2017Q4,G Comercio,267
+2018Q1,G Comercio,245
+2018Q2,G Comercio,264
+2018Q3,G Comercio,196
+2018Q4,G Comercio,271
+2019Q1,G Comercio,305
+2019Q2,G Comercio,273
+2019Q3,G Comercio,229
+2019Q4,G Comercio,354
+2020Q1,G Comercio,257
+2020Q2,G Comercio,185
+2020Q3,G Comercio,242
+2020Q4,G Comercio,275
+2021Q1,G Comercio,229
+2021Q2,G Comercio,215
+2021Q3,G Comercio,166
+2021Q4,G Comercio,222
+2022Q1,G Comercio,252
+2022Q2,G Comercio,237
+2022Q3,G Comercio,341
+2022Q4,G Comercio,271
+2023Q1,G Comercio,228
+2023Q2,G Comercio,326
+2023Q3,G Comercio,240
+2023Q4,G Comercio,374
+2024Q1,G Comercio,376
+2024Q2,G Comercio,366
+2024Q3,G Comercio,316
+2024Q4,G Comercio,336
+2025Q1,G Comercio,438
+2025Q2,G Comercio,345
+2025Q3,G Comercio,311
+2025Q4,G Comercio,363
+2011Q1,H Transporte y almacenamiento,67
+2011Q2,H Transporte y almacenamiento,70
+2011Q3,H Transporte y almacenamiento,62
+2011Q4,H Transporte y almacenamiento,66
+2012Q1,H Transporte y almacenamiento,111
+2012Q2,H Transporte y almacenamiento,104
+2012Q3,H Transporte y almacenamiento,57
+2012Q4,H Transporte y almacenamiento,90
+2013Q1,H Transporte y almacenamiento,97
+2013Q2,H Transporte y almacenamiento,76
+2013Q3,H Transporte y almacenamiento,59
+2013Q4,H Transporte y almacenamiento,84
+2014Q1,H Transporte y almacenamiento,73
+2014Q2,H Transporte y almacenamiento,71
+2014Q3,H Transporte y almacenamiento,50
+2014Q4,H Transporte y almacenamiento,59
+2015Q1,H Transporte y almacenamiento,50
+2015Q2,H Transporte y almacenamiento,43
+2015Q3,H Transporte y almacenamiento,36
+2015Q4,H Transporte y almacenamiento,43
+2016Q1,H Transporte y almacenamiento,45
+2016Q2,H Transporte y almacenamiento,30
+2016Q3,H Transporte y almacenamiento,30
+2016Q4,H Transporte y almacenamiento,43
+2017Q1,H Transporte y almacenamiento,37
+2017Q2,H Transporte y almacenamiento,36
+2017Q3,H Transporte y almacenamiento,30
+2017Q4,H Transporte y almacenamiento,69
+2018Q1,H Transporte y almacenamiento,45
+2018Q2,H Transporte y almacenamiento,67
+2018Q3,H Transporte y almacenamiento,42
+2018Q4,H Transporte y almacenamiento,54
+2019Q1,H Transporte y almacenamiento,55
+2019Q2,H Transporte y almacenamiento,50
+2019Q3,H Transporte y almacenamiento,59
+2019Q4,H Transporte y almacenamiento,76
+2020Q1,H Transporte y almacenamiento,70
+2020Q2,H Transporte y almacenamiento,38
+2020Q3,H Transporte y almacenamiento,50
+2020Q4,H Transporte y almacenamiento,68
+2021Q1,H Transporte y almacenamiento,53
+2021Q2,H Transporte y almacenamiento,34
+2021Q3,H Transporte y almacenamiento,37
+2021Q4,H Transporte y almacenamiento,37
+2022Q1,H Transporte y almacenamiento,49
+2022Q2,H Transporte y almacenamiento,62
+2022Q3,H Transporte y almacenamiento,72
+2022Q4,H Transporte y almacenamiento,45
+2023Q1,H Transporte y almacenamiento,51
+2023Q2,H Transporte y almacenamiento,50
+2023Q3,H Transporte y almacenamiento,37
+2023Q4,H Transporte y almacenamiento,51
+2024Q1,H Transporte y almacenamiento,50
+2024Q2,H Transporte y almacenamiento,66
+2024Q3,H Transporte y almacenamiento,46
+2024Q4,H Transporte y almacenamiento,66
+2025Q1,H Transporte y almacenamiento,68
+2025Q2,H Transporte y almacenamiento,84
+2025Q3,H Transporte y almacenamiento,45
+2025Q4,H Transporte y almacenamiento,78
+2011Q1,I Hostelería,48
+2011Q2,I Hostelería,57
+2011Q3,I Hostelería,32
+2011Q4,I Hostelería,51
+2012Q1,I Hostelería,64
+2012Q2,I Hostelería,81
+2012Q3,I Hostelería,43
+2012Q4,I Hostelería,89
+2013Q1,I Hostelería,123
+2013Q2,I Hostelería,90
+2013Q3,I Hostelería,84
+2013Q4,I Hostelería,103
+2014Q1,I Hostelería,96
+2014Q2,I Hostelería,96
+2014Q3,I Hostelería,95
+2014Q4,I Hostelería,82
+2015Q1,I Hostelería,96
+2015Q2,I Hostelería,73
+2015Q3,I Hostelería,66
+2015Q4,I Hostelería,67
+2016Q1,I Hostelería,93
+2016Q2,I Hostelería,68
+2016Q3,I Hostelería,46
+2016Q4,I Hostelería,70
+2017Q1,I Hostelería,54
+2017Q2,I Hostelería,70
+2017Q3,I Hostelería,39
+2017Q4,I Hostelería,72
+2018Q1,I Hostelería,69
+2018Q2,I Hostelería,71
+2018Q3,I Hostelería,56
+2018Q4,I Hostelería,72
+2019Q1,I Hostelería,80
+2019Q2,I Hostelería,77
+2019Q3,I Hostelería,63
+2019Q4,I Hostelería,103
+2020Q1,I Hostelería,84
+2020Q2,I Hostelería,60
+2020Q3,I Hostelería,127
+2020Q4,I Hostelería,213
+2021Q1,I Hostelería,226
+2021Q2,I Hostelería,177
+2021Q3,I Hostelería,114
+2021Q4,I Hostelería,106
+2022Q1,I Hostelería,136
+2022Q2,I Hostelería,130
+2022Q3,I Hostelería,149
+2022Q4,I Hostelería,128
+2023Q1,I Hostelería,85
+2023Q2,I Hostelería,136
+2023Q3,I Hostelería,105
+2023Q4,I Hostelería,137
+2024Q1,I Hostelería,168
+2024Q2,I Hostelería,148
+2024Q3,I Hostelería,121
+2024Q4,I Hostelería,150
+2025Q1,I Hostelería,175
+2025Q2,I Hostelería,138
+2025Q3,I Hostelería,124
+2025Q4,I Hostelería,220
+2011Q1,Industria y energía,313
+2011Q2,Industria y energía,256
+2011Q3,Industria y energía,251
+2011Q4,Industria y energía,305
+2012Q1,Industria y energía,411
+2012Q2,Industria y energía,388
+2012Q3,Industria y energía,274
+2012Q4,Industria y energía,458
+2013Q1,Industria y energía,422
+2013Q2,Industria y energía,460
+2013Q3,Industria y energía,325
+2013Q4,Industria y energía,368
+2014Q1,Industria y energía,298
+2014Q2,Industria y energía,264
+2014Q3,Industria y energía,216
+2014Q4,Industria y energía,245
+2015Q1,Industria y energía,183
+2015Q2,Industria y energía,164
+2015Q3,Industria y energía,127
+2015Q4,Industria y energía,168
+2016Q1,Industria y energía,128
+2016Q2,Industria y energía,129
+2016Q3,Industria y energía,118
+2016Q4,Industria y energía,153
+2017Q1,Industria y energía,145
+2017Q2,Industria y energía,148
+2017Q3,Industria y energía,122
+2017Q4,Industria y energía,144
+2018Q1,Industria y energía,128
+2018Q2,Industria y energía,142
+2018Q3,Industria y energía,108
+2018Q4,Industria y energía,173
+2019Q1,Industria y energía,139
+2019Q2,Industria y energía,178
+2019Q3,Industria y energía,144
+2019Q4,Industria y energía,184
+2020Q1,Industria y energía,158
+2020Q2,Industria y energía,119
+2020Q3,Industria y energía,109
+2020Q4,Industria y energía,162
+2021Q1,Industria y energía,165
+2021Q2,Industria y energía,145
+2021Q3,Industria y energía,109
+2021Q4,Industria y energía,126
+2022Q1,Industria y energía,141
+2022Q2,Industria y energía,126
+2022Q3,Industria y energía,208
+2022Q4,Industria y energía,149
+2023Q1,Industria y energía,136
+2023Q2,Industria y energía,197
+2023Q3,Industria y energía,157
+2023Q4,Industria y energía,198
+2024Q1,Industria y energía,196
+2024Q2,Industria y energía,192
+2024Q3,Industria y energía,174
+2024Q4,Industria y energía,180
+2025Q1,Industria y energía,235
+2025Q2,Industria y energía,222
+2025Q3,Industria y energía,153
+2025Q4,Industria y energía,223
+2011Q1,Inmobiliarias financieras y seguros,47
+2011Q2,Inmobiliarias financieras y seguros,53
+2011Q3,Inmobiliarias financieras y seguros,38
+2011Q4,Inmobiliarias financieras y seguros,51
+2012Q1,Inmobiliarias financieras y seguros,60
+2012Q2,Inmobiliarias financieras y seguros,68
+2012Q3,Inmobiliarias financieras y seguros,53
+2012Q4,Inmobiliarias financieras y seguros,87
+2013Q1,Inmobiliarias financieras y seguros,112
+2013Q2,Inmobiliarias financieras y seguros,91
+2013Q3,Inmobiliarias financieras y seguros,71
+2013Q4,Inmobiliarias financieras y seguros,99
+2014Q1,Inmobiliarias financieras y seguros,67
+2014Q2,Inmobiliarias financieras y seguros,67
+2014Q3,Inmobiliarias financieras y seguros,55
+2014Q4,Inmobiliarias financieras y seguros,64
+2015Q1,Inmobiliarias financieras y seguros,49
+2015Q2,Inmobiliarias financieras y seguros,51
+2015Q3,Inmobiliarias financieras y seguros,30
+2015Q4,Inmobiliarias financieras y seguros,42
+2016Q1,Inmobiliarias financieras y seguros,35
+2016Q2,Inmobiliarias financieras y seguros,44
+2016Q3,Inmobiliarias financieras y seguros,43
+2016Q4,Inmobiliarias financieras y seguros,52
+2017Q1,Inmobiliarias financieras y seguros,54
+2017Q2,Inmobiliarias financieras y seguros,30
+2017Q3,Inmobiliarias financieras y seguros,33
+2017Q4,Inmobiliarias financieras y seguros,38
+2018Q1,Inmobiliarias financieras y seguros,39
+2018Q2,Inmobiliarias financieras y seguros,39
+2018Q3,Inmobiliarias financieras y seguros,25
+2018Q4,Inmobiliarias financieras y seguros,30
+2019Q1,Inmobiliarias financieras y seguros,38
+2019Q2,Inmobiliarias financieras y seguros,34
+2019Q3,Inmobiliarias financieras y seguros,26
+2019Q4,Inmobiliarias financieras y seguros,56
+2020Q1,Inmobiliarias financieras y seguros,41
+2020Q2,Inmobiliarias financieras y seguros,23
+2020Q3,Inmobiliarias financieras y seguros,29
+2020Q4,Inmobiliarias financieras y seguros,39
+2021Q1,Inmobiliarias financieras y seguros,69
+2021Q2,Inmobiliarias financieras y seguros,61
+2021Q3,Inmobiliarias financieras y seguros,35
+2021Q4,Inmobiliarias financieras y seguros,57
+2022Q1,Inmobiliarias financieras y seguros,57
+2022Q2,Inmobiliarias financieras y seguros,48
+2022Q3,Inmobiliarias financieras y seguros,59
+2022Q4,Inmobiliarias financieras y seguros,64
+2023Q1,Inmobiliarias financieras y seguros,53
+2023Q2,Inmobiliarias financieras y seguros,59
+2023Q3,Inmobiliarias financieras y seguros,37
+2023Q4,Inmobiliarias financieras y seguros,43
+2024Q1,Inmobiliarias financieras y seguros,77
+2024Q2,Inmobiliarias financieras y seguros,66
+2024Q3,Inmobiliarias financieras y seguros,44
+2024Q4,Inmobiliarias financieras y seguros,69
+2025Q1,Inmobiliarias financieras y seguros,71
+2025Q2,Inmobiliarias financieras y seguros,66
+2025Q3,Inmobiliarias financieras y seguros,49
+2025Q4,Inmobiliarias financieras y seguros,67
+2011Q1,J Información y comunicaciones,26
+2011Q2,J Información y comunicaciones,26
+2011Q3,J Información y comunicaciones,21
+2011Q4,J Información y comunicaciones,27
+2012Q1,J Información y comunicaciones,31
+2012Q2,J Información y comunicaciones,42
+2012Q3,J Información y comunicaciones,27
+2012Q4,J Información y comunicaciones,52
+2013Q1,J Información y comunicaciones,41
+2013Q2,J Información y comunicaciones,54
+2013Q3,J Información y comunicaciones,48
+2013Q4,J Información y comunicaciones,74
+2014Q1,J Información y comunicaciones,44
+2014Q2,J Información y comunicaciones,56
+2014Q3,J Información y comunicaciones,41
+2014Q4,J Información y comunicaciones,69
+2015Q1,J Información y comunicaciones,46
+2015Q2,J Información y comunicaciones,49
+2015Q3,J Información y comunicaciones,41
+2015Q4,J Información y comunicaciones,51
+2016Q1,J Información y comunicaciones,29
+2016Q2,J Información y comunicaciones,36
+2016Q3,J Información y comunicaciones,32
+2016Q4,J Información y comunicaciones,41
+2017Q1,J Información y comunicaciones,38
+2017Q2,J Información y comunicaciones,47
+2017Q3,J Información y comunicaciones,31
+2017Q4,J Información y comunicaciones,54
+2018Q1,J Información y comunicaciones,35
+2018Q2,J Información y comunicaciones,50
+2018Q3,J Información y comunicaciones,36
+2018Q4,J Información y comunicaciones,32
+2019Q1,J Información y comunicaciones,45
+2019Q2,J Información y comunicaciones,48
+2019Q3,J Información y comunicaciones,46
+2019Q4,J Información y comunicaciones,45
+2020Q1,J Información y comunicaciones,43
+2020Q2,J Información y comunicaciones,35
+2020Q3,J Información y comunicaciones,46
+2020Q4,J Información y comunicaciones,52
+2021Q1,J Información y comunicaciones,56
+2021Q2,J Información y comunicaciones,50
+2021Q3,J Información y comunicaciones,26
+2021Q4,J Información y comunicaciones,26
+2022Q1,J Información y comunicaciones,54
+2022Q2,J Información y comunicaciones,54
+2022Q3,J Información y comunicaciones,60
+2022Q4,J Información y comunicaciones,37
+2023Q1,J Información y comunicaciones,37
+2023Q2,J Información y comunicaciones,42
+2023Q3,J Información y comunicaciones,35
+2023Q4,J Información y comunicaciones,36
+2024Q1,J Información y comunicaciones,74
+2024Q2,J Información y comunicaciones,87
+2024Q3,J Información y comunicaciones,60
+2024Q4,J Información y comunicaciones,67
+2025Q1,J Información y comunicaciones,82
+2025Q2,J Información y comunicaciones,52
+2025Q3,J Información y comunicaciones,67
+2025Q4,J Información y comunicaciones,86
+2011Q1,M Actividades profesionales y técnicas,92
+2011Q2,M Actividades profesionales y técnicas,53
+2011Q3,M Actividades profesionales y técnicas,43
+2011Q4,M Actividades profesionales y técnicas,75
+2012Q1,M Actividades profesionales y técnicas,85
+2012Q2,M Actividades profesionales y técnicas,92
+2012Q3,M Actividades profesionales y técnicas,61
+2012Q4,M Actividades profesionales y técnicas,117
+2013Q1,M Actividades profesionales y técnicas,162
+2013Q2,M Actividades profesionales y técnicas,156
+2013Q3,M Actividades profesionales y técnicas,129
+2013Q4,M Actividades profesionales y técnicas,126
+2014Q1,M Actividades profesionales y técnicas,120
+2014Q2,M Actividades profesionales y técnicas,100
+2014Q3,M Actividades profesionales y técnicas,88
+2014Q4,M Actividades profesionales y técnicas,117
+2015Q1,M Actividades profesionales y técnicas,119
+2015Q2,M Actividades profesionales y técnicas,93
+2015Q3,M Actividades profesionales y técnicas,82
+2015Q4,M Actividades profesionales y técnicas,96
+2016Q1,M Actividades profesionales y técnicas,101
+2016Q2,M Actividades profesionales y técnicas,87
+2016Q3,M Actividades profesionales y técnicas,64
+2016Q4,M Actividades profesionales y técnicas,97
+2017Q1,M Actividades profesionales y técnicas,102
+2017Q2,M Actividades profesionales y técnicas,104
+2017Q3,M Actividades profesionales y técnicas,65
+2017Q4,M Actividades profesionales y técnicas,79
+2018Q1,M Actividades profesionales y técnicas,82
+2018Q2,M Actividades profesionales y técnicas,95
+2018Q3,M Actividades profesionales y técnicas,55
+2018Q4,M Actividades profesionales y técnicas,83
+2019Q1,M Actividades profesionales y técnicas,79
+2019Q2,M Actividades profesionales y técnicas,85
+2019Q3,M Actividades profesionales y técnicas,80
+2019Q4,M Actividades profesionales y técnicas,107
+2020Q1,M Actividades profesionales y técnicas,90
+2020Q2,M Actividades profesionales y técnicas,61
+2020Q3,M Actividades profesionales y técnicas,81
+2020Q4,M Actividades profesionales y técnicas,100
+2021Q1,M Actividades profesionales y técnicas,94
+2021Q2,M Actividades profesionales y técnicas,83
+2021Q3,M Actividades profesionales y técnicas,50
+2021Q4,M Actividades profesionales y técnicas,61
+2022Q1,M Actividades profesionales y técnicas,88
+2022Q2,M Actividades profesionales y técnicas,69
+2022Q3,M Actividades profesionales y técnicas,119
+2022Q4,M Actividades profesionales y técnicas,81
+2023Q1,M Actividades profesionales y técnicas,57
+2023Q2,M Actividades profesionales y técnicas,88
+2023Q3,M Actividades profesionales y técnicas,76
+2023Q4,M Actividades profesionales y técnicas,83
+2024Q1,M Actividades profesionales y técnicas,125
+2024Q2,M Actividades profesionales y técnicas,99
+2024Q3,M Actividades profesionales y técnicas,87
+2024Q4,M Actividades profesionales y técnicas,107
+2025Q1,M Actividades profesionales y técnicas,121
+2025Q2,M Actividades profesionales y técnicas,87
+2025Q3,M Actividades profesionales y técnicas,67
+2025Q4,M Actividades profesionales y técnicas,116
+2011Q1,N Actividades administrativas y servicios auxiliares,55
+2011Q2,N Actividades administrativas y servicios auxiliares,43
+2011Q3,N Actividades administrativas y servicios auxiliares,35
+2011Q4,N Actividades administrativas y servicios auxiliares,59
+2012Q1,N Actividades administrativas y servicios auxiliares,62
+2012Q2,N Actividades administrativas y servicios auxiliares,81
+2012Q3,N Actividades administrativas y servicios auxiliares,50
+2012Q4,N Actividades administrativas y servicios auxiliares,94
+2013Q1,N Actividades administrativas y servicios auxiliares,216
+2013Q2,N Actividades administrativas y servicios auxiliares,95
+2013Q3,N Actividades administrativas y servicios auxiliares,74
+2013Q4,N Actividades administrativas y servicios auxiliares,70
+2014Q1,N Actividades administrativas y servicios auxiliares,82
+2014Q2,N Actividades administrativas y servicios auxiliares,73
+2014Q3,N Actividades administrativas y servicios auxiliares,46
+2014Q4,N Actividades administrativas y servicios auxiliares,83
+2015Q1,N Actividades administrativas y servicios auxiliares,60
+2015Q2,N Actividades administrativas y servicios auxiliares,73
+2015Q3,N Actividades administrativas y servicios auxiliares,39
+2015Q4,N Actividades administrativas y servicios auxiliares,50
+2016Q1,N Actividades administrativas y servicios auxiliares,59
+2016Q2,N Actividades administrativas y servicios auxiliares,73
+2016Q3,N Actividades administrativas y servicios auxiliares,48
+2016Q4,N Actividades administrativas y servicios auxiliares,50
+2017Q1,N Actividades administrativas y servicios auxiliares,65
+2017Q2,N Actividades administrativas y servicios auxiliares,49
+2017Q3,N Actividades administrativas y servicios auxiliares,41
+2017Q4,N Actividades administrativas y servicios auxiliares,56
+2018Q1,N Actividades administrativas y servicios auxiliares,62
+2018Q2,N Actividades administrativas y servicios auxiliares,58
+2018Q3,N Actividades administrativas y servicios auxiliares,38
+2018Q4,N Actividades administrativas y servicios auxiliares,80
+2019Q1,N Actividades administrativas y servicios auxiliares,78
+2019Q2,N Actividades administrativas y servicios auxiliares,57
+2019Q3,N Actividades administrativas y servicios auxiliares,60
+2019Q4,N Actividades administrativas y servicios auxiliares,67
+2020Q1,N Actividades administrativas y servicios auxiliares,76
+2020Q2,N Actividades administrativas y servicios auxiliares,34
+2020Q3,N Actividades administrativas y servicios auxiliares,81
+2020Q4,N Actividades administrativas y servicios auxiliares,114
+2021Q1,N Actividades administrativas y servicios auxiliares,80
+2021Q2,N Actividades administrativas y servicios auxiliares,55
+2021Q3,N Actividades administrativas y servicios auxiliares,49
+2021Q4,N Actividades administrativas y servicios auxiliares,38
+2022Q1,N Actividades administrativas y servicios auxiliares,54
+2022Q2,N Actividades administrativas y servicios auxiliares,55
+2022Q3,N Actividades administrativas y servicios auxiliares,57
+2022Q4,N Actividades administrativas y servicios auxiliares,57
+2023Q1,N Actividades administrativas y servicios auxiliares,38
+2023Q2,N Actividades administrativas y servicios auxiliares,50
+2023Q3,N Actividades administrativas y servicios auxiliares,36
+2023Q4,N Actividades administrativas y servicios auxiliares,48
+2024Q1,N Actividades administrativas y servicios auxiliares,86
+2024Q2,N Actividades administrativas y servicios auxiliares,77
+2024Q3,N Actividades administrativas y servicios auxiliares,55
+2024Q4,N Actividades administrativas y servicios auxiliares,79
+2025Q1,N Actividades administrativas y servicios auxiliares,71
+2025Q2,N Actividades administrativas y servicios auxiliares,67
+2025Q3,N Actividades administrativas y servicios auxiliares,48
+2025Q4,N Actividades administrativas y servicios auxiliares,70
+2011Q1,Resto de servicios,41
+2011Q2,Resto de servicios,46
+2011Q3,Resto de servicios,47
+2011Q4,Resto de servicios,55
+2012Q1,Resto de servicios,73
+2012Q2,Resto de servicios,72
+2012Q3,Resto de servicios,68
+2012Q4,Resto de servicios,89
+2013Q1,Resto de servicios,109
+2013Q2,Resto de servicios,91
+2013Q3,Resto de servicios,76
+2013Q4,Resto de servicios,84
+2014Q1,Resto de servicios,105
+2014Q2,Resto de servicios,87
+2014Q3,Resto de servicios,77
+2014Q4,Resto de servicios,71
+2015Q1,Resto de servicios,101
+2015Q2,Resto de servicios,59
+2015Q3,Resto de servicios,63
+2015Q4,Resto de servicios,96
+2016Q1,Resto de servicios,77
+2016Q2,Resto de servicios,81
+2016Q3,Resto de servicios,64
+2016Q4,Resto de servicios,99
+2017Q1,Resto de servicios,86
+2017Q2,Resto de servicios,103
+2017Q3,Resto de servicios,47
+2017Q4,Resto de servicios,106
+2018Q1,Resto de servicios,105
+2018Q2,Resto de servicios,103
+2018Q3,Resto de servicios,60
+2018Q4,Resto de servicios,79
+2019Q1,Resto de servicios,93
+2019Q2,Resto de servicios,73
+2019Q3,Resto de servicios,68
+2019Q4,Resto de servicios,92
+2020Q1,Resto de servicios,73
+2020Q2,Resto de servicios,66
+2020Q3,Resto de servicios,106
+2020Q4,Resto de servicios,181
+2021Q1,Resto de servicios,129
+2021Q2,Resto de servicios,109
+2021Q3,Resto de servicios,79
+2021Q4,Resto de servicios,84
+2022Q1,Resto de servicios,89
+2022Q2,Resto de servicios,82
+2022Q3,Resto de servicios,127
+2022Q4,Resto de servicios,123
+2023Q1,Resto de servicios,70
+2023Q2,Resto de servicios,91
+2023Q3,Resto de servicios,102
+2023Q4,Resto de servicios,120
+2024Q1,Resto de servicios,112
+2024Q2,Resto de servicios,123
+2024Q3,Resto de servicios,98
+2024Q4,Resto de servicios,109
+2025Q1,Resto de servicios,129
+2025Q2,Resto de servicios,113
+2025Q3,Resto de servicios,86
+2025Q4,Resto de servicios,127
+2011Q1,Total,1568
+2011Q2,Total,1487
+2011Q3,Total,1206
+2011Q4,Total,1649
+2012Q1,Total,2046
+2012Q2,Total,2092
+2012Q3,Total,1523
+2012Q4,Total,2434
+2013Q1,Total,2709
+2013Q2,Total,2455
+2013Q3,Total,1801
+2013Q4,Total,2178
+2014Q1,Total,1927
+2014Q2,Total,1739
+2014Q3,Total,1325
+2014Q4,Total,1573
+2015Q1,Total,1460
+2015Q2,Total,1307
+2015Q3,Total,1070
+2015Q4,Total,1260
+2016Q1,Total,1085
+2016Q2,Total,1127
+2016Q3,Total,913
+2016Q4,Total,1172
+2017Q1,Total,1104
+2017Q2,Total,1214
+2017Q3,Total,807
+2017Q4,Total,1136
+2018Q1,Total,1103
+2018Q2,Total,1243
+2018Q3,Total,845
+2018Q4,Total,1141
+2019Q1,Total,1214
+2019Q2,Total,1155
+2019Q3,Total,1041
+2019Q4,Total,1379
+2020Q1,Total,1192
+2020Q2,Total,802
+2020Q3,Total,1137
+2020Q4,Total,1499
+2021Q1,Total,1260
+2021Q2,Total,1115
+2021Q3,Total,794
+2021Q4,Total,929
+2022Q1,Total,1125
+2022Q2,Total,1061
+2022Q3,Total,1432
+2022Q4,Total,1137
+2023Q1,Total,912
+2023Q2,Total,1255
+2023Q3,Total,1027
+2023Q4,Total,1350
+2024Q1,Total,1526
+2024Q2,Total,1474
+2024Q3,Total,1192
+2024Q4,Total,1397
+2025Q1,Total,1666
+2025Q2,Total,1435
+2025Q3,Total,1157
+2025Q4,Total,1613
